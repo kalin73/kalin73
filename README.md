@@ -5,7 +5,7 @@ Backend Developer
 -----------------
 
 * ✉️  You can contact me at [kalin\_emilov@abv.bg](mailto:kalin_emilov@abv.bg)
-* 🚀  I'm currently working on [Shopping site](http://github.com/StrahilDimitrov/Shopping_site/tree/main/Shopping)
+* 🚀  I'm currently working on [Shopping site](https://github.com/kalin73/Shopping-site)
 * 🤝  I'm open to collaborating on creating and maintaining back-end and web applications.
 
 ### Skills
