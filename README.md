@@ -17,9 +17,6 @@ Backend Developer
 
 <a href="https://leetcode.com/kalin73/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>	<a href=https://www.hackerrank.com/profile/kalin77><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 
-### Socials
-
-<a href="https://www.stackoverflow.com/users/19307958/kalin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
